@@ -1,0 +1,4 @@
+/*mini-holiday*/
+html:has(meta[content*="High Holiday"]) .chabad_header {
+    background-image: url(https://hamerkazshelanu.com.au/media/images/1334/tAbj13349136.png) !important;
+}
