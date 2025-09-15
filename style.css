@@ -2,3 +2,7 @@
 html:has(meta[content*="High Holiday"]) .chabad_header {
     background-image: url(https://hamerkazshelanu.com.au/media/images/1334/tAbj13349136.png) !important;
 }
+
+html:has(meta[content*="High Holiday"]) .chabad_header .headerTitle,html:has(meta[content*="High Holiday"]) .centerName, html:has(meta[content*="High Holiday"]) .holidayDates, html:has(meta[content*="High Holiday"]) .holidayDates p{
+    display:none !important;
+}
