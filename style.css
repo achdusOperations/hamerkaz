@@ -1,5 +1,5 @@
 /*mini-holiday*/
-html:has(meta[content*="High Holiday"]) .chabad_header, html:has(meta[content*="RH"]) .chabad_header, html:has(meta[content*="youth"]) .chabad_header,html:has(meta[content*="Partnerships"]) .chabad_headerhtml:has(meta[content*="HH"]) .chabad_header html:has(meta[content*="Services"]) .chabad_header {
+html:has(meta[content*="High Holiday"]) .chabad_header, html:has(meta[content*="RH"]) .chabad_header, html:has(meta[content*="Youth"]) .chabad_header,html:has(meta[content*="Partnerships"]) .chabad_header, html:has(meta[content*="HH"]) .chabad_header, html:has(meta[content*="Services"]) .chabad_header {
     background-image: url(https://hamerkazshelanu.com.au/media/images/1334/tAbj13349136.png) !important;
 }
 
