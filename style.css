@@ -1,6 +1,6 @@
 /*mini-holiday*/
 html:has(meta[content*="High Holiday"]) .chabad_header, html:has(meta[content*="RH"]) .chabad_header, html:has(meta[content*="Youth"]) .chabad_header,html:has(meta[content*="Partnerships"]) .chabad_header, html:has(meta[content*="HH"]) .chabad_header, html:has(meta[content*="Services"]) .chabad_header {
-    background-image: url(https://hamerkazshelanu.com.au/media/images/1335/afJo13350155.png) !important;
+    background-image: url(https://hamerkazshelanu.com.au/media/images/1335/VnIO13351097.png) !important;
 }
 
  .chabad_header .headerTitle, .chabad_header .centerName,  .chabad_header .holidayDates,  .chabad_header .holidayDates p{
